@@ -1,5 +1,3 @@
-A music recommendation system based on sentiment analysis.
-
 This is a recommendation system based on content filtering. Here, sentiment analysis is performed on lyrics and the songs with matching sentiment values are suggested.
 
 Training process:
