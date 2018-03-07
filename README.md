@@ -10,5 +10,4 @@ Training process:
 The Recommendation is based on the last 5 songs the user listens to (Last_5_Songs.txt).
 1. Identify the sentiments of the songs in user's history.
 2. Calculate the majority sentiment.
-3. Recommended a song (selected at random) of the same sentiment.
-
+3. Suggest a song (selected at random) of the same sentiment.
